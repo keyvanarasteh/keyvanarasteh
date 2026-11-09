@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @keyvanarasteh
-- 👀 I’m interested in Mobile App Development and back-end dev
-- 📫 How to reach me 
-- https://www.linkedin.com/in/keyvanarasteh/
+<img src="./assets/profile-banner.svg" alt="Keyvan Arasteh — systems, security, AI and learning" width="100%">
 
-<!---
-keyvanarasteh/keyvanarasteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi, I'm Keyvan.
+
+Founder of **QLine Technology Solutions** · systems architect · security researcher · instructor in Istanbul.
+
+I build open tools and practical learning spaces across **security**, **AI infrastructure**, and **developer experience**. I like systems that people can inspect, understand, and improve.
+
+**Currently exploring** · memory-safe utilities · security analysis · multi-provider AI tooling
+
+| Start here | What you'll find |
+| --- | --- |
+| [Portfolio](https://keyvanarasteh.github.io/) | Selected work, writing, and background |
+| [Projects](https://keyvanarasteh.github.io/projects/) | Open-source tools and their source code |
+| [Qrofessor Foundry](https://qrofessor.com/foundry) | Security courses, labs, and technical resources |
+
+**Featured builds:** [qai-sdk](https://github.com/keyvanarasteh/qai-sdk) · [WebQ](https://github.com/keyvanarasteh/WebQ) · [Qleaner](https://github.com/keyvanarasteh/Qleaner) · [os-lab](https://github.com/keyvanarasteh/os-lab)
+
+[LinkedIn](https://www.linkedin.com/in/keyvanarasteh/) · [Qrofessor](https://qrofessor.com/about) · [key1.tech](https://key1.tech)

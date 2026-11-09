@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Keyvan Arasteh</title><desc id="desc">Systems, security, AI and learning</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d27"/><stop offset="1" stop-color="#0b111a"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#28404b" stroke-width="1" opacity=".5"/></pattern></defs>
+  <rect width="1200" height="280" rx="14" fill="url(#bg)"/><rect width="1200" height="280" rx="14" fill="url(#grid)" opacity=".55"/>
+  <circle cx="1035" cy="138" r="185" fill="none" stroke="#b8f171" stroke-width="1" opacity=".4"/><circle cx="1035" cy="138" r="120" fill="none" stroke="#b8f171" stroke-width="1" opacity=".5"/><circle cx="1035" cy="138" r="45" fill="#b8f171" opacity=".1"/>
+  <path d="M0 230 680 0M520 280 1200 20" stroke="#b8f171" stroke-width="1" opacity=".12"/>
+  <circle cx="75" cy="58" r="5" fill="#b8f171"/><text x="91" y="63" fill="#b8f171" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="4">INDEPENDENT BUILDER · ISTANBUL</text>
+  <text x="69" y="163" fill="#f4f5f2" font-family="Arial, sans-serif" font-size="69" font-weight="700" letter-spacing="-3">Keyvan Arasteh</text>
+  <text x="73" y="212" fill="#a6b7bf" font-family="Arial, sans-serif" font-size="20" letter-spacing="3">SYSTEMS  /  SECURITY  /  AI  /  LEARNING</text>
+  <text x="1014" y="153" fill="#b8f171" font-family="Arial, sans-serif" font-size="70" font-weight="700">K.</text>
+</svg>
