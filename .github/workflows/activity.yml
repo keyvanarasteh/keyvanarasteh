@@ -1,0 +1,34 @@
+name: Refresh GitHub activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '38 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate activity graphic
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/update_activity.py --svg assets/activity.svg
+      - name: Publish updated graphic
+        run: |
+          if git diff --quiet -- assets/activity.svg; then
+            echo 'Activity graphic is unchanged.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/activity.svg
+          git commit -m 'Refresh GitHub activity graphic'
+          git push origin HEAD:main
