@@ -2,7 +2,7 @@
 
 ### Hi, I'm Keyvan.
 
-Founder of **QLine Technology Solutions** · systems architect · security researcher · instructor in Istanbul.
+Founder of **Qrofessor Technology Solutions** · systems architect · security researcher · instructor in Istanbul.
 
 I build open tools and practical learning spaces across **security**, **AI infrastructure**, and **developer experience**. I like systems that people can inspect, understand, and improve.
 
