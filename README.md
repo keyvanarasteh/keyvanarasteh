@@ -16,6 +16,12 @@ I build open tools and practical learning spaces across **security**, **AI infra
 
 **Featured builds:** [qai-sdk](https://github.com/keyvanarasteh/qai-sdk) · [WebQ](https://github.com/keyvanarasteh/WebQ) · [Qleaner](https://github.com/keyvanarasteh/Qleaner) · [os-lab](https://github.com/keyvanarasteh/os-lab)
 
+**Languages:** Rust · TypeScript · Dart · Python · Swift · JavaScript · PHP · C++ · Shell
+
+**Frameworks & platforms:** Flutter · SvelteKit · Tauri · React · Astro · Laravel
+
+**Current source footprint:** **20,354,216 nonblank source lines** across 494 owned, nonfork public and private repositories (2026-11-09). This is a repository total; it can include collaborator code and is not a lifetime authored count. Common dependency and generated paths are excluded. No private repository names or code are published.
+
 ### GitHub activity · past year
 
 <img src="./assets/activity.svg" alt="Past-year GitHub contributions, active days, commit contributions, pull request contributions, and daily activity chart" width="100%">
